@@ -1,1 +1,1 @@
-# -heck-password
+# -Check-password
